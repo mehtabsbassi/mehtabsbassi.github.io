@@ -1,0 +1,36 @@
+h1 { color: blue; font-weight: bold;
+    font-size: 34px; }
+
+    ul { color: blue;}
+
+  .blue-and-bold {
+background-color: burlywood;
+font-weight: bold;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-style: italic;
+  }  
+
+#paragraph {
+    background-color: bisque;
+}
+a:visited{
+    color: white;
+}
+.Home {
+    padding: 10px;
+    background-color: #333;
+border-radius: 5px;
+}
+.Home:active{
+    background-color: bisque;
+    padding: 8px;
+}
+.food-list > ul > li{color: aqua ;}
+
+body{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+
+p{
+    color: blueviolet;
+}
